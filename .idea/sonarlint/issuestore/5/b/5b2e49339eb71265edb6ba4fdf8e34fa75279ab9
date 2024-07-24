@@ -1,0 +1,17 @@
+
+k	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÄÏÆıÿÿÿÿ
+i
+java:S1192."NDefine a constant instead of duplicating this literal "myPreferences" 3 times.(·Ì†–ûÿÿÿÿ
+n	java:S116"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ğ¤ïûÿÿÿÿ
+r	java:S116"XRename this field "user_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ğ¤ïûÿÿÿÿ
+p	java:S116"VRename this field "remember_me" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¢úüÿÿÿÿ
+n	java:S116"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ÷Úçüÿÿÿÿ
+q	java:S116"WRename this field "btn_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¯ŒÁúÿÿÿÿ
+k	java:S116"QRename this field "shp_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†˜Û¤úÿÿÿÿ
+l	java:S116 "WRename this field "shpEditor_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¬ê
+F
+java:S1659"+Declare "user_password" on a separate line.(»Ğ¤ïûÿÿÿÿ
+m
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨Œşÿÿÿÿ
+Z
+java:S1858f"D"getMessage" returns a string, there's no need to call "toString()".(ëş–¼

@@ -1,0 +1,22 @@
+
+C
+java:S1604W"(Make this anonymous inner class a lambda(Ìî£ùÿÿÿÿ
+k
+java:S1104#"PMake flag a static final constant or non-public and provide accessors if needed.(Æ»‰°ûÿÿÿÿ
+E
+java:S1444#"*Make this "public static flag" field final(Æ»‰°ûÿÿÿÿ
+^
+java:S1192?"HDefine a constant instead of duplicating this literal "TOSHIBA" 3 times.(£³–¥
+k	java:S116!"QRename this field "shp_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†˜Û¤úÿÿÿÿ
+l	java:S116""WRename this field "shpEditor_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¬ê
+Q
+java:S2696*"6Make the enclosing method "static" or remove this set.(ÚÄ¦òøÿÿÿÿ
+Q
+java:S2696]"6Make the enclosing method "static" or remove this set.(³ÖÉÿÿÿÿÿ
+g
+java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+g
+java:S1301¯"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+=	java:S131¯""Add a default case to this switch.(×ö³–úÿÿÿÿ
+r
+java:S3923±"[Remove this conditional structure or edit its code blocks so that they're not all the same.(©§¹
